@@ -1441,7 +1441,7 @@
     call-me-maybe "^1.0.1"
     glob-to-regexp "^0.3.0"
 
-"@nan011/react-material@link:..":
+"@nan011/react-materials@link:..":
   version "0.0.0"
   uid ""
 
